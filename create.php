@@ -102,12 +102,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <option    >Kaolack</option>
         <option    >Podor</option>
         <option    >Richard Toll</option>
-        <option    >Matam</option>
-        <option    >Kaffrine</option>
-        <option    >Sédhiou</option>
-        <option    >Bignona</option>
-        <option    >Bakel</option>
-        <option    >Tivaouane</option>
+       
     </select>
 </div>
         </th>
@@ -130,12 +125,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <option   >Kaolack</option>
         <option   >Podor</option>
         <option   >Richard Toll</option>
-        <option   >Matam</option>
-        <option   >Kaffrine</option>
-        <option   >Sédhiou</option>
-        <option   >Bignona</option>
-        <option   >Bakel</option>
-        <option   >Tivaouane</option>
+       
     </select>
 </div>
         </th>
