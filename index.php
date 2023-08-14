@@ -36,7 +36,7 @@ try {
 <table class="table">
     <thead>
         <tr>
-            <th>Code du voyage</th>
+            <th>Id</th>
             <th>Ville de départ</th>
             <th>Ville d'arrivée</th>
             <th>Date du voyage</th>
