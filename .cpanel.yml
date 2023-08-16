@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/issa/maouloud-ahmadou-crud.i-s-s-a.com/reservation 
+    - /bin/cp index.php $DEPLOYPATH
+    
